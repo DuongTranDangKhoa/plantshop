@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/web/detail.jsp</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/DAO/AccountDAO.java</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/Servlet/mangeAcc.java</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/DTO/CategoryDTO.java</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/web/categories.jsp</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/Servlet/addToCartServlet.java</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/Servlet/deleteAccount.java</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/Servlet/mangeServlet.java</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/web/admin.jsp</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/Servlet/changePlant.java</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/web/seeOrder.jsp</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/Servlet/searchServlet.java</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/web/sendandcontact.jsp</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/web/plant.jsp</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/DTO/PlantDTO.java</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/web/account.jsp</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/DAO/CategoryDAO.java</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/Servlet/registerServlet.java</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/web/shop.html</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/web/shop.jsp</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/web/search.jsp</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/Servlet/changeAccount.java</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/dispatcher/dispatch.java</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/DTO/CartDTO.java</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/web/checkout.jsp</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/Servlet/mangeCate.java</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/DAO/PlantDAO.java</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/Servlet/saveOrder.java</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/web/checkout.html</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/DAO/OrderDAO.java</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/DAO/CartDAO.java</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/web/cart.jsp</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/web/login.jsp</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/web/detail.html</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/DTO/OrderDTO.java</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/web/canclejsp.jsp</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/DTO/AccountDTO.java</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/web/index.jsp</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/Servlet/loginServlet.java</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/Servlet/logoutServlet.java</file>
+            <file>file:/C:/Users/Khoa%20Duong/OneDrive/Documents/NetBeansProjects/FlowerShop/src/java/Servlet/checkoutServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
